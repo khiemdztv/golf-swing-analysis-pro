@@ -1,0 +1,68 @@
+# ===========================
+# NEVER commit these
+# ===========================
+
+# API Keys & Secrets
+.env
+*.env
+.env.local
+.env.production
+
+# ===========================
+# Raw video data (too large)
+# ===========================
+*.mp4
+*.avi
+*.mov
+*.mkv
+Videos_data/
+
+# ===========================
+# Raw training data (optional — keep if <100MB total)
+# Uncomment lines below to EXCLUDE csv data files
+# ===========================
+# dataset_metadata_pro.csv
+# features_back_view.csv
+# features_side_view.csv
+# features_back_amateur.csv
+# features_side_amateur.csv
+
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ===========================
+# Jupyter
+# ===========================
+.ipynb_checkpoints/
+*.ipynb
+
+# ===========================
+# OS files
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# IDE
+# ===========================
+.vscode/
+.idea/
+*.sublime-project
+
+# ===========================
+# Streamlit cache
+# ===========================
+.streamlit/secrets.toml

@@ -1,0 +1,14 @@
+{
+  "back": {
+    "train_acc": 1.0,
+    "test_acc": 1.0,
+    "n_pro": 9,
+    "n_amateur": 17
+  },
+  "side": {
+    "train_acc": 1.0,
+    "test_acc": 1.0,
+    "n_pro": 8,
+    "n_amateur": 17
+  }
+}

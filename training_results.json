@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-12-27 14:39:10",
+  "models": {
+    "back": {
+      "total_samples": 43,
+      "dist_mean": 13.979883700262029,
+      "dist_std": 2.926235077219188,
+      "threshold_pro": 18.369236316090813
+    },
+    "side": {
+      "total_samples": 41,
+      "dist_mean": 13.66751903304337,
+      "dist_std": 4.1471584827924355,
+      "threshold_pro": 19.88825675723202
+    }
+  }
+}
