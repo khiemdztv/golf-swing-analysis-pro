@@ -225,7 +225,7 @@ Competition rules and data availability meant we only had PRO video. Synthetic n
 
 ## 🤝 Team
 
-**VTK Team — Vietnam Datathon Data Storm 2025**
+**VTK Team — Vietnam Datathon Data Storm 2025***
 
 ---
 
